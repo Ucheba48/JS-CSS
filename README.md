@@ -2,7 +2,7 @@
 
 `$ git add .`
 
-`$ git commit -m "Text of the commit"`
+`$ git commit -m "Text of the commit"` - Запись изменений в репозиторий
 
 `$ git push origin master`
 
